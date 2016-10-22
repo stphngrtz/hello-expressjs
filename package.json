@@ -1,0 +1,26 @@
+{
+  "name": "hello-expressjs",
+  "version": "1.0.0",
+  "description": "Say hello to expressjs.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stphngrtz/hello-expressjs.git"
+  },
+  "author": "stphngrtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stphngrtz/hello-expressjs/issues"
+  },
+  "homepage": "https://github.com/stphngrtz/hello-expressjs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.6.4",
+    "morgan": "^1.7.0"
+  }
+}
